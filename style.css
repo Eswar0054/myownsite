@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    /* Set the height of the body to 100% of the viewport height */
+    background-image: url('./Images/loginbackgroundimage.jpg');
+    /* Replace 'your-image.jpg' with the path to your image */
+    background-size: cover;
+    /* Cover the entire container with the background image */
+    background-position: center;
+    /* Center the background image */
+    background-repeat: no-repeat;
+    /* Do not repeat the background image */
+    font-family: Arial, sans-serif;
+    /* Set a default font for the entire page */
+    color: #ffffff;
+}
+
+h1 {
+    text-align: center;
+    color: violet;
+}
+
+section {
+    text-align: center
+}
